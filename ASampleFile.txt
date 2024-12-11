@@ -24,6 +24,6 @@ Example:
 
 ---
 
-- Name: Bob Fisherman
+- Name: Alice Fisherman
 - Fun Fact: Loves fishing.
 - Message: "Looking forward to learning Git workflows!"
