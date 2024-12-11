@@ -1,0 +1,28 @@
+1. There is one orange from Nagpur.
+2. Two members of the team wanted to eat that orange.
+3. Three ideas were shared on how to divide the orange.
+4. Four slices were made from the orange.
+5. Five people debated on the fairness of the slices.
+6. Six opinions were voiced about who deserved the orange.
+7. Seven moments passed before a decision was made.
+8. Eight friends cheered as they shared the orange.
+9. Nine stories were told about similar events.
+10. Ten lessons were learned about sharing and fairness.
+
+# Collaborative Git Workflow Demo
+
+This file is intended to help demonstrate collaborative Git workflows. 
+
+Please add your name, a fun fact about yourself, or a short message below:
+
+---
+
+Example:
+- Name: Alex Doe
+- Fun Fact: Loves hiking and playing chess.
+- Message: "Looking forward to learning Git workflows!"
+
+---
+
+Your Turn:
+(Add your entry here!)
