@@ -24,5 +24,6 @@ Example:
 
 ---
 
-Your Turn:
-(Add your entry here!)
+- Name: Alice Fisherman
+- Fun Fact: Loves fishing.
+- Message: "Looking forward to learning Git workflows!"
